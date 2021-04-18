@@ -8,7 +8,7 @@ output: html_document
 
 This is my first RMarkdown file tracked by Git!!
 
-[some extra line]
+[This is a change]
 
 ## [some extra title line]
 
