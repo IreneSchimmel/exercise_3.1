@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # excel files
-/data/.*.xlsx
+/data/*.xlsx
