@@ -1,6 +1,22 @@
 ---
-title: "My own RMarkdown file"
+title: "First Git-tracked RMarkdown"
+subtitle: "Courtesy of exercise 3.1"
+author: "Irene Schimmel"
+date: "18-04-2021"
 output: html_document
 ---
 
 This is my first RMarkdown file tracked by Git!!
+
+[some extra line]
+
+## [some extra title line]
+
+``` {r even a library}
+library(tidyverse)
+```
+
+``` {r and even some code}
+a_tibble <- tibble(number = 1:10, letters = letters[1:10])
+a_tibble
+```
